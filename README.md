@@ -2,5 +2,5 @@
 
 ## Integrantes
 - Daniel Martinez
--German Gutierrez
+-German Gutierrez, 45, Salta
 -Lautaro Valenzuela
