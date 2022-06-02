@@ -3,4 +3,4 @@
 ## Integrantes
 - Daniel Martinez
 -German Gutierrez
--Lautaro Valenzuela
+-Lautaro Valenzuela, 22, San Miguel;
