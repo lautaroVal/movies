@@ -1,6 +1,6 @@
 # MOVIES
 
 ## Integrantes
-- Daniel Martinez
+- Daniel Martinez, 20 años, Escobar
 -German Gutierrez
 -Lautaro Valenzuela
