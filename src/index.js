@@ -1,6 +1,6 @@
 const contacto = require ('./contacto');
 const enCartelera = require ('./enCartelera');
-const homePage = require ('./homePage');
+const homePage = require ('./contacto.js');
 const masVotadas = require ('./masVotadas');
 const preguntasFrecuentes = require ('./preguntasFrecuentes');
 const sucursales = require ('./sucursales');
