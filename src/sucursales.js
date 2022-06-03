@@ -1,25 +1,3 @@
-sucursales.js
-Quién tiene acceso
-
-Propiedades del sistema
-Tipo
-JavaScript
-Tamaño
-530 bytes
-Almacenamiento usado
-530 bytes
-Ubicación
-Movies
-Propietario
-Eric Mena
-Modificado
-28 jun 2020 por Eric Mena
-Abierto
-17:40 por mí
-Creado
-31 may 2022
-Sin descripción
-Los usuarios con acceso de lectura pueden descargar este elemento
 const fs = require('fs')
 
 let sucursales = {
